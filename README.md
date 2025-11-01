@@ -16,7 +16,6 @@ This project demonstrates common backend patterns such as authentication, CRUD o
 ![user-profile-list](images/user-profile-list.png)
 ![django-administration-user-profile](images/django-administration-user-profile.png)
 ![user-profile-instance](images/user-profile-instance.png)
-![api-root](images/api-root.png)
 
 ## Technologies Used
 
